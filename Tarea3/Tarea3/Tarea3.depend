@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1566349816 source:c:\users\aybso\onedrive\documents\aybson projects\docker\tarea3\tarea3\src\nodosimple.cpp
+	"NodoSimple.h"
+	<cstddef>
+
+1566349785 c:\users\aybso\onedrive\documents\aybson projects\docker\tarea3\tarea3\include\nodosimple.h
+	"ListaActividades.h"
+
+1566349742 source:c:\users\aybso\onedrive\documents\aybson projects\docker\tarea3\tarea3\src\listaactividades.cpp
+	"ListaActividades.h"
+	<iostream>
+
+1566349721 c:\users\aybso\onedrive\documents\aybson projects\docker\tarea3\tarea3\include\listaactividades.h
+	"NodoDoble.h"
+	<string>
+
+1566349607 c:\users\aybso\onedrive\documents\aybson projects\docker\tarea3\tarea3\include\nododoble.h
+	<string>
+
+1566349704 source:c:\users\aybso\onedrive\documents\aybson projects\docker\tarea3\tarea3\src\nododoble.cpp
+	"NodoDoble.h"
+
+1566350001 source:c:\users\aybso\onedrive\documents\aybson projects\docker\tarea3\tarea3\src\listacabeceras.cpp
+	"ListaCabeceras.h"
+
+1566349982 c:\users\aybso\onedrive\documents\aybson projects\docker\tarea3\tarea3\include\listacabeceras.h
+	"NodoSimple.h"
+	<iostream>
+	<string>
+
