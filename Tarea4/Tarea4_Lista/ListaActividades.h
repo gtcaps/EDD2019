@@ -298,6 +298,8 @@ class ListaActividades {
         void imprimirDia(int dia){
             Nodo* d = getDia(dia);
             
+            cout << endl << endl;
+
             if(d != NULL){
                 cout << "------------> " << nombreDia(d->x) << " <------------" << endl;
     
