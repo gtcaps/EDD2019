@@ -565,8 +565,7 @@ int main()
 
 void limpiar_buffer()
 {
-    while ((getchar()) != '\n')
-        ;
+    while ((getchar()) != '\n');
 }
 
 void ingresarActividad(ListaCabeceras *l)

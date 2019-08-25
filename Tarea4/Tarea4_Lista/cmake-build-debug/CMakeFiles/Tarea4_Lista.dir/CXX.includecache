@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/aybso/CLionProjects/Tarea4_Lista/ListaActividades.h
+iostream
+-
+string
+-
+Nodo.h
+C:/Users/aybso/CLionProjects/Tarea4_Lista/Nodo.h
+
+C:/Users/aybso/CLionProjects/Tarea4_Lista/Nodo.h
+string
+-
+iostream
+-
+
+C:/Users/aybso/CLionProjects/Tarea4_Lista/main.cpp
+iostream
+-
+ListaActividades.h
+C:/Users/aybso/CLionProjects/Tarea4_Lista/ListaActividades.h
+iostream
+-
+
